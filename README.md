@@ -11,6 +11,9 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
+
 Student Name: Borromeo, James A. 
+
 Course: BSIT 
+
 Section: SD 2C
