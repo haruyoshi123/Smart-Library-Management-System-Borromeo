@@ -18,11 +18,9 @@ Course: BSIT
 
 Section: SD 2C
 
-Member Management Module
+Project Modules
 
-Features
-- Register New Member
-- Update Member Information
-- Delete Member Record
-- Search Member
-
+- Member Management
+- Book Catalog
+- Borrowing
+- Returning
