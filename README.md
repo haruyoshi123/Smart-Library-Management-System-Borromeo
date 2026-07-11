@@ -25,3 +25,5 @@ Section: SD 2C
 - Inventory Management
 - Reports
 - User Accounts
+
+_Last updated during GitHub Actions laboratory._
